@@ -1,0 +1,4 @@
+curl_cffi==0.13.0
+PyQt6>=6.5.0
+pywebview>=4.0.0
+pythonnet>=3.0.0

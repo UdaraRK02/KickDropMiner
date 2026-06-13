@@ -1,0 +1,30 @@
+# Build output
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Runtime data (user-specific, never commit)
+session.json
+drops_state.json
+*.tmp
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
