@@ -25,13 +25,6 @@ A desktop app for automatically farming and claiming drops on [Kick.com](https:/
 ```bash
 pip install -r requirements.txt
 python main.py
-```
-
-**Standalone exe** (no Python required):
-```bash
-build.bat          # builds dist\KickDropMiner\
-```
-Then distribute the `dist\KickDropMiner\` folder. Users run `KickDropMiner.exe`.
 
 ---
 
