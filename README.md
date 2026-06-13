@@ -25,6 +25,7 @@ A desktop app for automatically farming and claiming drops on [Kick.com](https:/
 ```bash
 pip install -r requirements.txt
 python main.py
+```
 
 ---
 
